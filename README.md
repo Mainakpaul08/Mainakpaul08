@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I'm Mainak Paul<br><br>I'm a BCA student at Lovely Professional University (LPU) who enjoys building software and creating practical web applications. I'm passionate about Full Stack Development and continuously improving my programming and problem-solving skills by working on real-world projects.<br><br>🚀 Currently<br><br>  💻 Learning and building Full Stack applications<br>  📚 Practicing Data Structures & Algorithms<br>  
+ 👋 Hi, I'm Mainak Paul<br><br>I'm a BCA student at Lovely Professional University (LPU) who enjoys building software and creating practical web applications. I'm passionate about Full Stack Development and continuously improving my programming and problem-solving skills by working on real-world projects.<br>🚀 Currently<br><br>  💻 Learning and building Full Stack applications<br>  📚 Practicing Data Structures & Algorithms<br>  
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Mainakpaul08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
